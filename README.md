@@ -1,6 +1,9 @@
 # AnomalyDetectionCVPR2018-Pytorch
 Pytorch version of - https://github.com/WaqasSultani/AnomalyDetectionCVPR2018
 
+Code base taken from: https://github.com/ekosman/AnomalyDetectionCVPR2018-Pytorch
+
+
 ## Install anaconda env
 ```conda env create -f environment.yml```
 
@@ -35,6 +38,3 @@ This should take any video and run the Anomaly Detection code (including CD3 fea
 "annotation_methods.py --path_list LIST_OF_VIDEO_PATH --dir_list LIST_OF_LIST_WITH_PATH_AND_VIDEO_NAME --normal_or_not LIST_TRUE_FALUE"
 This is currently just for demo but will allow training with nex videos
 
-
-
-Code base taken from: https://github.com/ekosman/AnomalyDetectionCVPR2018-Pytorch
