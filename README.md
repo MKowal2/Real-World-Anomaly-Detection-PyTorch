@@ -16,7 +16,7 @@ https://github.com/DavideA/c3d-pytorch
 and the 3D ResNets from https://github.com/kenshohara/3D-ResNets-PyTorch
 
 ## Precomputed features
-Can be downloaded from:
+From the C3D network can be downloaded from:
 https://drive.google.com/drive/folders/1rZn-UHM_EcIXauJ0wRysQbh0mHQoNrfY?usp=sharing
 
 ## Features extraction
